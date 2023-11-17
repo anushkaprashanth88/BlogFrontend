@@ -27,4 +27,4 @@ const blogHeader = () => {
   )
 }
 
-export default blogHeaderlogHeader
+export default blogHeader
